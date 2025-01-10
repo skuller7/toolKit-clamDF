@@ -8,10 +8,10 @@ ClamAV Automation Script
 ## Prerequisites
 
 - ClamAV Installed: Ensure ClamAV is installed and updated on your system. You can install ClamAV using the following command:
- >_ sudo apt install clamav
+ > sudo apt install clamav
 
 - Script Permissions: Ensure the script has execute permissions:
- >_ chmod +x script_name.sh
+ > chmod +x script_name.sh
 
 ##################################################################
 
@@ -21,11 +21,11 @@ Clone or download the script to your local machine.
 
 Run the script using:
 
-./script_name.sh
+ > ./script_name.sh
 
 ###################################################################
 
-##Follow the menu prompts to select an option:
+## Follow the menu prompts to select an option:
 
  - Scan 1 file: Enter the file name to scan it.
 
